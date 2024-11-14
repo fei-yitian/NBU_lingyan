@@ -1,0 +1,2 @@
+ABC和yosys均支持Liberty文件读入，其中yosys可通过以下命令对Liberty文件过滤，只输出逻辑门的verilog描述，命令如下：
+yosys-filterlib -verilogsim asap7.lib > asap7.v
