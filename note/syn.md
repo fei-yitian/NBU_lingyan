@@ -1,0 +1,1 @@
+yosys可以在OpenLane flow中负责综合的部分(OpenLane和OpenRoad似乎有着莫种联系)----OpenLane flow：https://github.com/The-OpenROAD-Project/OpenLane.git
